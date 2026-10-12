@@ -1,0 +1,16 @@
+Nombres: Angel
+Apellidos: Dominguez
+Edad: 18
+Estatura: 1.61
+Telefono: 9618685410
+Genero: Hombre
+
+
+Nombres: 
+Apellidos: 
+Edad: 
+Estatura: 
+Telefono: 
+Genero: 
+
+
